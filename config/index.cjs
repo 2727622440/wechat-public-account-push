@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'c9766d8c8ad96d73d40dce1b339c7b7b',
 
   PROVINCE: '上海',
-  CITY: '上海 浦东新区',
+  CITY: '上海',
 
   USERS: [
     {
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'RscfMekp2EAKgSfw7XEg0uh87ZPt1VU0O5n2tTdFsIs',
 
   CALLBACK_USERS: [
     {
